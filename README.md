@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning about natural language processing and how to apply it to text classification tasks.
 - 👯 I'm looking to collaborate on projects related to data science, machine learning, and software development.
 - 🤔 I'm looking for help with implementing and optimizing machine learning models in production environments.
-- 💬 Ask me about my experience working with large datasets, building and deploying machine learning models, and using agile development methodologies.
+- 💬 Ask me about my experience working with large datasets, building and deploying machine learning models, and using agile development methodologies. Or readmore about it on my Medium profile (https://medium.com/@jmspsndrs).
 - 📫 You can reach me through my LinkedIn profile (https://www.linkedin.com/in/jmspsndrs/) or by emailing me here on GitHub.
 - 😄 My pronouns are he/him.
 - ⚡ Fun fact: I'm a big fan of rock climbing and try to get out to the local climbing gym at least once a week.
