@@ -7,4 +7,4 @@
 - 💬 Ask me about my experience working with large datasets, building and deploying machine learning models, and using agile development methodologies. Or, read about it on my Medium profile (https://medium.com/@jmspsndrs).
 - 📫 You can reach me through my LinkedIn profile (https://www.linkedin.com/in/jmspsndrs/) or by emailing me here on GitHub.
 - 😄 My pronouns are he/him.
-- ⚡ Fun fact: I'm a big fan of rock climbing and try to get out to the local climbing gym at least once a week.
+- ⚡ Fun fact: I'm a big fan of snow boarding and try to get out to the fresh powder whenever I can.
